@@ -188,7 +188,6 @@ var endGame = function() {
       window.alert("Thank you for playing Robot Gladiators! Come back soon!");
     }
   };
-
 // go to shop between battles function
 var shop = function() {
   // ask player what they'd like to do
